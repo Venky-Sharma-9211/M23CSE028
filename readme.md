@@ -1,6 +1,7 @@
-# Creating Docker from Scratch and Deploying Sample Web App https://medium.com/@venkateshkumar9211/creating-docker-from-scratch-and-deploying-sample-web-app-c6ca3151a5b5
+# Creating Docker from Scratch and Deploying Sample Web App 
 
 This repository provides a simple guide on creating a Docker image from scratch and deploying a sample Flask web application using Docker.
+You can see complete detail on here https://medium.com/@venkateshkumar9211/creating-docker-from-scratch-and-deploying-sample-web-app-c6ca3151a5b5
 
 ## Prerequisites
 - Docker must be installed and running on your machine. You can download Docker (https://www.docker.com/get-started) from the official website.
